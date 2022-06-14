@@ -1,6 +1,6 @@
 
-Botum Sanctus Müzik Linki
+Botum Yuri Bot Linki
 
-<a href="https://top.gg/bot/860783764720058368">
-  <img src="https://top.gg/api/widget/860783764720058368.svg">
+<a href="https://top.gg/bot/934458405563809832">
+  <img src="https://top.gg/api/widget/934458405563809832.svg">
 </a>
