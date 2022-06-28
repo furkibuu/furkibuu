@@ -1,6 +1,6 @@
 
 Botum Yuri Bot Linki
 
-<a href="https://top.gg/bot/934458405563809832">
-  <img src="https://top.gg/api/widget/934458405563809832.svg">
+<a href="https://open.spotify.com/user/31n54tw5xl3inuus4zqhlbz7ee5q">
+  <img src="https://open.spotify.com/user/31n54tw5xl3inuus4zqhlbz7ee5q">
 </a>
