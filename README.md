@@ -1,3 +1,5 @@
 <h2>✨Welcome to my Furki</h2>
 <p>Hello there! My name is Furkan. I am a 17 years old Html ,Css, Java and JavaScript developer living in Turkey. I started programming in Java 2 years ago. That's it</p>
-  
+_________________________________________________________
+
+{"success":true,"data":{"spotify":{"track_id":"7lxDi2X8HI3MscHEJP4ORN","timestamps":{"start":1670107337848,"end":1670107514863},"song":"Çok Yaşa Kral","artist":"Porçay","album_art_url":"https://i.scdn.co/image/ab67616d0000b27302ec5670fd4fdb1899b71401","album":"Çok Yaşa Kral"},"listening_to_spotify":true,"kv":{},"discord_user":{"username":"FurkiBu","public_flags":4194560,"id":"849947229523279882","discriminator":"0671","bot":false,"avatar":"a_d33b1456573d650d4d2a163cc1e80804"},"discord_status":"dnd","activities":[{"type":2,"timestamps":{"start":1670107337848,"end":1670107514863},"sync_id":"7lxDi2X8HI3MscHEJP4ORN","state":"Porçay","session_id":"1a743a07ffb16abbf5ef935307e210bb","party":{"id":"spotify:849947229523279882"},"name":"Spotify","id":"spotify:1","flags":48,"details":"Çok Yaşa Kral","created_at":1670107337909,"assets":{"large_text":"Çok Yaşa Kral","large_image":"spotify:ab67616d0000b27302ec5670fd4fdb1899b71401"}}],"active_on_discord_web":false,"active_on_discord_mobile":false,"active_on_discord_desktop":true}}
