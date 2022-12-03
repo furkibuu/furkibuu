@@ -1,5 +1,18 @@
 <h2>✨Welcome to my Furki</h2>
 <p>Hello there! My name is Furkan. I am a 17 years old Html ,Css, Java and JavaScript developer living in Turkey. I started programming in Java 2 years ago. That's it</p>
+<h2>Social Media</h2>
+
+<div align=center>
+
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fu-w)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanctusfurkan@gmail.com)
+[![Discord](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://discord.gg/YvTYbM6QTn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/furkangrns59)
+
+
+  
+</div>
 
 <h2>Github Stats</h2>
 
