@@ -1,8 +1,6 @@
 <h2>Discord Profile</h2>
 
-<div align="center">
-<a href="https://discord.gg/RbyCBCnZYW" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/849947229523279882/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
-</div>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/849947229523279882?hideDiscrim=true)](https://discord.com/users/849947229523279882)
 
 
 <h2>✨Welcome to my Furki</h2>
