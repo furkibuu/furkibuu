@@ -1,3 +1,10 @@
+<h2>Discord Profile</h2>
+
+<div align="center">
+<a href="https://discord.gg/RbyCBCnZYW" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/849947229523279882/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
+</div>
+
+
 <h2>✨Welcome to my Furki</h2>
 <p>Hello there! My name is Furkan. I am a 17 years old Html ,Css, Java and JavaScript developer living in Turkey. I started programming in Java 2 years ago. That's it</p>
 <h2>Contact İnformation</h2>
