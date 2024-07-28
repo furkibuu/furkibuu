@@ -40,5 +40,5 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/453534543194882049?hideDiscrim=true)](https://discord.com/users/453534543194882049)
 
 
-<img src="https://w0.peakpx.com/wallpaper/598/695/HD-wallpaper-akame-akame-ga-kill-movie-movies-thumbnail.jpg" style="with: 150px; heigh:150px;">
+<img src="https://w0.peakpx.com/wallpaper/598/695/HD-wallpaper-akame-akame-ga-kill-movie-movies-thumbnail.jpg" style="; heigh:20%;">
 
