@@ -8,7 +8,7 @@
 
 
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fu-w)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/furkibuu)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanctusfurkan@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-D14836?style=for-the-badge&dc=stack-overflow&logoColor=white)](https://discord.gg/dXrUFsChxZ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/furkangrns59)
