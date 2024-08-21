@@ -39,7 +39,7 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/453534543194882049?hideDiscrim=true)](https://discord.com/users/453534543194882049)
 
+![image](https://github.com/user-attachments/assets/55ff8d1d-ec01-4dd1-959b-afa90a439cd3)
 
-<img src="https://github.com/user-attachments/assets/0c572de2-56f1-4c64-96d9-e540dddd5ac5" style: with:150px>
 
 
