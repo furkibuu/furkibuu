@@ -32,7 +32,7 @@
 </a>
   <img src="https://top.gg/api/widget/upvotes/798621154680111116.svg">
 </a>
-
+<a href="https://discordbotlist.com/bots/aiko-bot"><img src="https://discordbotlist.com/api/v1/bots/798621154680111116/widget"></a>
 
 <h2>📌Discord Profile</h2>
 
