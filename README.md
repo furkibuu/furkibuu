@@ -24,11 +24,7 @@
 
 <h2>👀 My Discord Bot Stats</h2>
 <a href="https://top.gg/bot/798621154680111116">
-  <img src="https://top.gg/api/widget/servers/798621154680111116.svg">
-</a>
-<a href="https://top.gg/bot/798621154680111116">
-  <a href="https://top.gg/bot/798621154680111116">
-  <img src="https://top.gg/api/widget/owner/798621154680111116.svg">
+  <img src="https://top.gg/api/widget/798621154680111116.svg">
 </a>
   <img src="https://top.gg/api/widget/upvotes/798621154680111116.svg">
 </a>
