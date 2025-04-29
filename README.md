@@ -1,5 +1,5 @@
 # 🌟 Welcome to Furki's GitHub Profile! 🌟
-
+![Profile Picture](https://media.tenor.com/OjzCsUydYUEAAAAM/cute-cha-pri.gif)  
 Hi there! I'm **Furkan**, a passionate **19-year-old developer** from Turkey! I specialize in **HTML**, **CSS**, **Java**, and **JavaScript**, and I've been coding since I was 14. I love building **discord bots** and creating fun projects! 
 
 Feel free to browse around and check out my repositories. 💻🚀
