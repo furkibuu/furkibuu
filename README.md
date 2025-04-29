@@ -1,5 +1,5 @@
 # 🌟 Welcome to Furki's GitHub Profile! 🌟
-![Profile Picture](https://media.tenor.com/OjzCsUydYUEAAAAM/cute-cha-pri.gif)  
+
 Hi there! I'm **Furkan**, a passionate **19-year-old developer** from Turkey! I specialize in **HTML**, **CSS**, **Java**, and **JavaScript**, and I've been coding since I was 14. I love building **discord bots** and creating fun projects! 
 
 Feel free to browse around and check out my repositories. 💻🚀
@@ -28,8 +28,8 @@ Here are some insights into my GitHub activity:
 
 Here are some of my latest repositories:
 
-- [**Register Bot**]([https://github.com/furkibuu/aiko-bot](https://github.com/furkibuu/v14-register-bot)) - A custom Discord bot built with **Discord.js**
-- [**Web Design Projects**]([https://github.com/furkibuu/web-design](https://github.com/furkibuu/mc-server-web)) - Various web design projects focusing on clean and modern layouts.
+- **[Register Bot]([https://github.com/furkibuu/aiko-bot](https://github.com/furkibuu/v14-register-bot))** - A custom Discord bot built with **Discord.js**
+- **[Web Design Projects]([https://github.com/furkibuu/web-design](https://github.com/furkibuu/mc-server-web))** - Various web design projects focusing on clean and modern layouts.
 
 ---
 
