@@ -63,14 +63,6 @@ Check out my Discord bot stats! 🚀
 
 ---
 
-## 🎮 Current Discord Activity
-
-Here's my live Discord status:
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/453534543194882049?hideDiscrim=true)](https://discord.com/users/453534543194882049)
-
----
-
 ## 🔥 Fun Facts About Me
 
 - I'm a huge anime fan! My favorite anime is **Akame Ga Kill**. 🍿
