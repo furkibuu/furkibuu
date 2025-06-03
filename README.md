@@ -1,4 +1,4 @@
-# 🌟 Welcome to Furki's GitHub Profile! 🌟
+## 🌟 Welcome to Furki's GitHub Profile! 🌟
 
 Hi there! I'm **Furkan**, a passionate **19-year-old developer** from Turkey! I specialize in **HTML**, **CSS**, **Java**, **Ruby** and **JavaScript**, and I've been coding since I was 14. I love building **discord bots** and creating fun projects! 
 
@@ -53,7 +53,6 @@ Check out my Discord bot stats! 🚀
 <a href="https://top.gg/bot/798621154680111116">
   <img src="https://top.gg/api/widget/798621154680111116.svg">
 </a>
-  
 ### [DiscordBotList](https://discordbotlist.com/bots/aiko-bot)
 [![Aiko DiscordBotList Widget](https://discordbotlist.com/api/v1/bots/798621154680111116/widget)](https://discordbotlist.com/bots/aiko-bot)
 
@@ -71,9 +70,6 @@ Here's my live Discord status:
 
 - I'm a huge anime fan! My favorite anime is **Akame Ga Kill**. 🍿
 - I love coding challenges and contributing to open-source projects. 💡
-- When I'm not coding, I'm either playing games or learning new tech! 🎮
 
 ---
 
-### Feel free to explore my repositories, and don’t forget to star them if you like what you see! 🌟  
-Thanks for stopping by! 😎
