@@ -22,14 +22,23 @@ Here are some insights into my GitHub activity:
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkibuu&show_icons=true&theme=dark&count_private=true&include_all_commits=true&border_color=2f363d&text_color=09d672&icon_color=00C2C2&title_color=ffffff&custom_title=GitHub%20Stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkibuu&layout=compact&theme=dark&border_color=2f363d&text_color=09d672&title_color=ffffff)
+
 ---
 
-## 🚀 Latest Repositories
+## 🧠 Languages I Know
 
-Here are some of my latest repositories:
-
-- **[Register Bot]([https://github.com/furkibuu/aiko-bot](https://github.com/furkibuu/v14-register-bot))** - A custom Discord bot built with **Discord.js**
-- **[Web Design Projects]([https://github.com/furkibuu/web-design](https://github.com/furkibuu/mc-server-web))** - Various web design projects focusing on clean and modern layouts.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+</p>
 
 ---
 
@@ -45,7 +54,6 @@ Check out my Discord bot stats! 🚀
 ### [DiscordBotList](https://discordbotlist.com/bots/aiko-bot)
 [![Aiko DiscordBotList Widget](https://discordbotlist.com/api/v1/bots/798621154680111116/widget)](https://discordbotlist.com/bots/aiko-bot)
 
-###[
 ---
 
 ## 🎮 Current Discord Activity
