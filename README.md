@@ -24,8 +24,6 @@ If you want to reach out, here are some ways to connect with me:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkibuu&layout=compact&theme=dark&border_color=2f363d&text_color=09d672&title_color=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkibuu&theme=dark&ring=09d672&fire=00C2C2&currStreakLabel=ffffff)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=furkibuu&theme=darkhub&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=furkibuu&theme=github-compact&color=09d672&line=00C2C2&point=ffffff&area=true)
