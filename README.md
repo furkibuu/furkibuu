@@ -53,9 +53,7 @@ Check out my Discord bot stats! 🚀
 
 ### [Aiko Bot](https://top.gg/bot/798621154680111116)
 
-<a href="https://top.gg/bot/798621154680111116">
-  <img src="https://top.gg/api/widget/798621154680111116.svg">
-</a>
+[![Discord Bots](https://top.gg/api/widget/798621154680111116.svg)(https://top.gg/bot/798621154680111116)
 
 ### [DiscordBotList](https://discordbotlist.com/bots/aiko-bot)
 
