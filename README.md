@@ -52,11 +52,13 @@ If you want to reach out, here are some ways to connect with me:
 Check out my Discord bot stats! 🚀
 
 ### [Aiko Bot](https://top.gg/bot/798621154680111116)
+
 <a href="https://top.gg/bot/798621154680111116">
   <img src="https://top.gg/api/widget/798621154680111116.svg">
 </a>
 
 ### [DiscordBotList](https://discordbotlist.com/bots/aiko-bot)
+
 [![Aiko DiscordBotList Widget](https://discordbotlist.com/api/v1/bots/798621154680111116/widget)](https://discordbotlist.com/bots/aiko-bot)
 
 ---
