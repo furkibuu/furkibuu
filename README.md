@@ -50,7 +50,7 @@ If you want to reach out, here are some ways to connect with me:
 
 Check out my Discord bot stats! 🚀
 
-### [Aiko Bot](https://top.gg/bot/798621154680111116)
+### [Aiko Bot] (https://top.gg/bot/798621154680111116)
 
 [![Discord Bots](https://top.gg/api/widget/798621154680111116.svg)(https://top.gg/bot/798621154680111116)
 
