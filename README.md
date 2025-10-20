@@ -5,7 +5,18 @@ Hi there! I'm **Furkan**, a passionate **19-year-old developer** from Turkey! I 
 Feel free to browse around and check out my repositories. 💻🚀
 
 ---
+<details>
+  <summary>Github Stats</summary>
+  ## 💻 GitHub Stats
+  
+  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkibuu&show_icons=true&theme=dark&count_private=true&include_all_commits=true&border_color=2f363d&text_color=09d672&icon_color=00C2C2&title_color=ffffff&custom_title=GitHub%20Stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkibuu&layout=compact&theme=dark&border_color=2f363d&text_color=09d672&title_color=ffffff)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=furkibuu&theme=darkhub&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=furkibuu&theme=github-compact&color=09d672&line=00C2C2&point=ffffff&area=true)
+</details>
 ## 📬 Contact Me
 
 If you want to reach out, here are some ways to connect with me:
@@ -15,18 +26,6 @@ If you want to reach out, here are some ways to connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/furkangrns59)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/453534543194882049)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aikobot.co)
-
----
-
-## 💻 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkibuu&show_icons=true&theme=dark&count_private=true&include_all_commits=true&border_color=2f363d&text_color=09d672&icon_color=00C2C2&title_color=ffffff&custom_title=GitHub%20Stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkibuu&layout=compact&theme=dark&border_color=2f363d&text_color=09d672&title_color=ffffff)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=furkibuu&theme=darkhub&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=furkibuu&theme=github-compact&color=09d672&line=00C2C2&point=ffffff&area=true)
 
 ---
 
