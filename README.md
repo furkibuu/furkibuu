@@ -6,6 +6,16 @@ Feel free to browse around and check out my repositories. 💻🚀
 
 ---
 
+
+## 🔥 Fun Facts About Me
+
+- I'm a huge anime fan! My favorite anime is **Akame Ga Kill**. 🍿
+- I love coding challenges and contributing to open-source projects. 💡
+
+
+
+---
+
 ## 📬 Contact Me
 
 If you want to reach out, here are some ways to connect with me:
@@ -16,26 +26,11 @@ If you want to reach out, here are some ways to connect with me:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/453534543194882049)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aikobot.co)
 
----
-
-## 🧠 Languages I Know
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
-</p>
 
 ---
 
 <details>
-  <summary>Github Stats</summary>
+  <summary>💻 Github Stats</summary>
   
   ## 💻 GitHub Stats
   
@@ -49,7 +44,7 @@ If you want to reach out, here are some ways to connect with me:
 </details>
 
 <details>
-  <summary> Bot Stats & Widgets </summary>
+  <summary>📊 Bot Stats & Widgets </summary>
 
   ## 📊 Bot Stats & Widgets
   
@@ -65,13 +60,25 @@ Check out my Discord bot stats! 🚀
   
 </details>
 
+<details>
+  <summary>🧠 Languages I Know </summary>
 
----
+  ## 🧠 Languages I Know
 
-## 🔥 Fun Facts About Me
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
+</p>
 
-- I'm a huge anime fan! My favorite anime is **Akame Ga Kill**. 🍿
-- I love coding challenges and contributing to open-source projects. 💡
+</details>
 
----
+
+
 
