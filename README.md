@@ -5,18 +5,7 @@ Hi there! I'm **Furkan**, a passionate **19-year-old developer** from Turkey! I 
 Feel free to browse around and check out my repositories. 💻🚀
 
 ---
-<details>
-  <summary>Github Stats</summary>
-  ## 💻 GitHub Stats
-  
-  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkibuu&show_icons=true&theme=dark&count_private=true&include_all_commits=true&border_color=2f363d&text_color=09d672&icon_color=00C2C2&title_color=ffffff&custom_title=GitHub%20Stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkibuu&layout=compact&theme=dark&border_color=2f363d&text_color=09d672&title_color=ffffff)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=furkibuu&theme=darkhub&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=furkibuu&theme=github-compact&color=09d672&line=00C2C2&point=ffffff&area=true)
-</details>
 ## 📬 Contact Me
 
 If you want to reach out, here are some ways to connect with me:
@@ -45,8 +34,25 @@ If you want to reach out, here are some ways to connect with me:
 
 ---
 
-## 📊 Bot Stats & Widgets
+<details>
+  <summary>Github Stats</summary>
+  
+  ## 💻 GitHub Stats
+  
+ ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkibuu&show_icons=true&theme=dark&count_private=true&include_all_commits=true&border_color=2f363d&text_color=09d672&icon_color=00C2C2&title_color=ffffff&custom_title=GitHub%20Stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkibuu&layout=compact&theme=dark&border_color=2f363d&text_color=09d672&title_color=ffffff)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=furkibuu&theme=darkhub&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=furkibuu&theme=github-compact&color=09d672&line=00C2C2&point=ffffff&area=true)
+</details>
+
+<details>
+  <summary> Bot Stats & Widgets </summary>
+
+  ## 📊 Bot Stats & Widgets
+  
 Check out my Discord bot stats! 🚀
 
 ### [Aiko Bot](https://top.gg/bot/798621154680111116)
@@ -56,6 +62,9 @@ Check out my Discord bot stats! 🚀
 ### [DiscordBotList](https://discordbotlist.com/bots/aiko-bot)
 
 [![Aiko DiscordBotList Widget](https://discordbotlist.com/api/v1/bots/798621154680111116/widget)](https://discordbotlist.com/bots/aiko-bot)
+  
+</details>
+
 
 ---
 
