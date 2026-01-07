@@ -60,13 +60,13 @@
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=furkibuu&theme=darkhub&no-frame=true&margin-w=15&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FurkiBu_&theme=darkhub&no-frame=true&margin-w=15&row=1&column=6" />
 </a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=furkibuu&show_icons=true&theme=dark&count_private=true&include_all_commits=true&border_color=2f363d&text_color=09d672&icon_color=00C2C2&title_color=ffffff&bg_color=0d1117&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkibuu&layout=compact&theme=dark&border_color=2f363d&text_color=09d672&title_color=ffffff&bg_color=0d1117&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=FurkiBu_&show_icons=true&theme=dark&count_private=true&include_all_commits=true&border_color=2f363d&text_color=09d672&icon_color=00C2C2&title_color=ffffff&bg_color=0d1117&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkiBu_&layout=compact&theme=dark&border_color=2f363d&text_color=09d672&title_color=ffffff&bg_color=0d1117&hide_border=true" height="180"/>
 
 <br>
 
