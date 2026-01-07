@@ -1,85 +1,102 @@
-## 🌟 Welcome to Furki's GitHub Profile! 🌟
+<div align="center">
 
-Hi there! I'm **Furkan**, a passionate **19-year-old developer** from Turkey! I specialize in **HTML**, **CSS**, **Java**, **Ruby** and **JavaScript**, and I've been coding since I was 14. I love building **Web Site and Discord bots** and creating fun projects! 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5/xTk9ZvMnbIiIew7IpW/giphy.gif" width="180" height="180" style="border-radius: 50%; border: 3px solid #00C2C2;" alt="Aiko Avatar"/>
 
-Feel free to browse around and check out my repositories. 💻🚀
+  <h1 align="center">🌟 Welcome to Furki's World! 🌟</h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=09D672&background=27272B00&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Furkan;I+build+Discord+Bots+🤖;I+love+Anime+and+Web+Dev+💻;Akame+Ga+Kill+Fan+⚔️" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <b>19 Years Old</b> • <b>Developer from Turkey 🇹🇷</b> • <b>Coding since 14</b>
+  </p>
+
+  <a href="https://discord.com/users/453534543194882049">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/furkibuu">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sanctusfurkan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/furkangrns59">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+</div>
 
 ---
 
+### 🌸 About Me & Fun Facts
 
-## 🔥 Fun Facts About Me
+<img align="right" src="https://media.giphy.com/media/WnIu6vAWtJeGXRnhn2/giphy.gif" width="150" alt="Anime Coding Gif">
 
-- I'm a huge anime fan! My favorite anime is **Akame Ga Kill**. 🍿
-- I love coding challenges and contributing to open-source projects. 💡
+- 🔭 I’m currently working on **Web Sites & Discord Bots**.
+- 🌱 I’m currently learning more about **Advanced JavaScript & Ruby**.
+- 🍿 **Anime:** Huge fan of *Akame Ga Kill*.
+- 💬 **Ask me about:** Discord.js, Node.js, and Anime!
+- ⚡ **Fun fact:** I love creating fun projects and contributing to open source.
+
+<br clear="right">
+
+---
+
+<div align="center">
+
+  ### 🧠 Languages & Tools
+
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mysql,mongo,ruby,vue,vscode,git&perline=6&theme=dark" />
+
+</div>
 
 ---
 
 <details>
-  <summary>💻 Github Stats</summary>
-  
-  ## 💻 GitHub Stats
-  
- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkibuu&show_icons=true&theme=dark&count_private=true&include_all_commits=true&border_color=2f363d&text_color=09d672&icon_color=00C2C2&title_color=ffffff&custom_title=GitHub%20Stats)
+<summary><b>📊 Github Statistics</b> (Click to Expand)</summary>
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkibuu&layout=compact&theme=dark&border_color=2f363d&text_color=09d672&title_color=ffffff)
+<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=furkibuu&theme=darkhub&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=furkibuu&theme=darkhub&no-frame=true&margin-w=15&row=1&column=6" />
+</a>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=furkibuu&theme=github-compact&color=09d672&line=00C2C2&point=ffffff&area=true)
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=furkibuu&show_icons=true&theme=dark&count_private=true&include_all_commits=true&border_color=2f363d&text_color=09d672&icon_color=00C2C2&title_color=ffffff&bg_color=0d1117&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkibuu&layout=compact&theme=dark&border_color=2f363d&text_color=09d672&title_color=ffffff&bg_color=0d1117&hide_border=true" height="180"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=furkibuu&theme=react-dark&color=09d672&line=00C2C2&point=ffffff&area=true&hide_border=true" />
+
+</div>
 </details>
 
 <details>
-  <summary>📊 Bot Stats & Widgets </summary>
+<summary><b>🤖 Aiko Bot Stats</b> (Click to Expand)</summary>
+<br>
+<div align="center">
 
-  ## 📊 Bot Stats & Widgets
+  ### [Add Aiko Bot 🚀](https://top.gg/bot/798621154680111116)
+
+  <a href="https://top.gg/bot/798621154680111116">
+    <img src="https://top.gg/api/widget/798621154680111116.svg" alt="Top.gg Widget"/>
+  </a>
+  <br><br>
+  <a href="https://discordbotlist.com/bots/aiko-bot">
+    <img src="https://discordbotlist.com/api/v1/bots/798621154680111116/widget" alt="DBL Widget"/>
+  </a>
   
-Check out my Discord bot stats! 🚀
-
-### [Aiko Bot](https://top.gg/bot/798621154680111116)
-
-[![Discord Bots](https://top.gg/api/widget/798621154680111116.svg)(https://top.gg//bot/798621154680111116)
-
-### [DiscordBotList](https://discordbotlist.com/bots/aiko-bot)
-
-[![Aiko DiscordBotList Widget](https://discordbotlist.com/api/v1/bots/798621154680111116/widget)](https://discordbotlist.com/bots/aiko-bot)
+  <br>
   
+  [![Website](https://img.shields.io/badge/Visit-AikoBot.co-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aikobot.co)
+
+</div>
 </details>
 
-<details>
-  <summary>🧠 Languages I Know </summary>
-
-  ## 🧠 Languages I Know
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
-</p>
-
-</details>
-
-<details>
-  <summary>☎️ Contact Me</summary>
-
-  ## 📬 Contact Me
-
-If you want to reach out, here are some ways to connect with me:
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/furkibuu)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanctusfurkan@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/furkangrns59)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/453534543194882049)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aikobot.co)
-
-
-</details>
-
-
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2C2&height=100&section=footer"/>
+</div>
