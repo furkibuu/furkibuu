@@ -59,9 +59,7 @@
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=furkibuu&theme=darkhub&no-frame=true&margin-w=15&row=1&column=6" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=furkibuu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br><br>
 
