@@ -59,12 +59,17 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=furkibuu&theme=onedark)]
+<div align="center">
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=FurkiBu_&show_icons=true&theme=dark&count_private=true&include_all_commits=true&border_color=2f363d&text_color=09d672&icon_color=00C2C2&title_color=ffffff&bg_color=0d1117&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkiBu_&layout=compact&theme=dark&border_color=2f363d&text_color=09d672&title_color=ffffff&bg_color=0d1117&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=furkibuu&show_icons=true&theme=dark&count_private=true&include_all_commits=true&border_color=2f363d&text_color=09d672&icon_color=00C2C2&title_color=ffffff&bg_color=0d1117&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkibuu&layout=compact&theme=dark&border_color=2f363d&text_color=09d672&title_color=ffffff&bg_color=0d1117&hide_border=true" height="180"/>
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FurkiBu_&theme=react-dark&color=09d672&line=00C2C2&point=ffffff&area=true&hide_border=true" />
+
+</div>
+</details>
 
 <br>
 
