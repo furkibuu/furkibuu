@@ -73,8 +73,6 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=furkibuu&theme=react-dark&color=09d672&line=00C2C2&point=ffffff&area=true&hide_border=true" />
-
 </div>
 </details>
 
