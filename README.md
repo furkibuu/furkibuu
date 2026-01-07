@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5/xTk9ZvMnbIiIew7IpW/giphy.gif" width="180" height="180" style="border-radius: 50%; border: 3px solid #00C2C2;" alt="Aiko Avatar"/>
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5/xTk9ZvMnbIiIew7IpW/giphy.gif](https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-3.gif)" width="180" height="180" style="border-radius: 50%; border: 3px solid #00C2C2;" alt="Aiko Avatar"/>
 
   <h1 align="center">🌟 Welcome to Furki's World! 🌟</h1>
 
