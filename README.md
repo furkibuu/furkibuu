@@ -31,7 +31,7 @@
 
 ### 🌸 About Me & Fun Facts
 
-<img align="right" src="https://media.giphy.com/media/WnIu6vAWtJeGXRnhn2/giphy.gif" width="150" alt="Anime Coding Gif">
+<img align="right" src="https://media.discordapp.net/attachments/1450913061283037246/1458422897684123747/aiko_premium.png?ex=695f95aa&is=695e442a&hm=e23def92fc93e7bbf916527014f27516dd53474a5aa30dbb91decb2f400b164c&=&format=webp&quality=lossless&width=656&height=438" width="150" alt="Anime Coding Gif">
 
 - 🔭 I’m currently working on **Web Sites & Discord Bots**.
 - 🌱 I’m currently learning more about **Advanced JavaScript & Ruby**.
