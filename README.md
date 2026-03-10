@@ -22,7 +22,7 @@
   </a>
 
   <p>
-    <b>19 Years Old</b> • <b>Developer from Turkey 🇹🇷</b> • <b>Coding since 14</b>
+    <b>20 Years Old</b> • <b>Developer from Turkey 🇹🇷</b> • <b>Coding since 14</b>
   </p>
 
   
